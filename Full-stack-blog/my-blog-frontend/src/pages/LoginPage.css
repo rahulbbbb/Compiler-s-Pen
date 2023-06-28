@@ -1,0 +1,21 @@
+.btn-link{
+    display:flex;
+}
+
+.link1{
+    margin-left: 30px;
+    font-size: 20px;
+    color: blue;
+}
+
+.button{
+    padding: 16px;
+    width:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
